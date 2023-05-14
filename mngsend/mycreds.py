@@ -23,10 +23,7 @@ scopes = [
 ]
 
 # oauth2
-#cred_file_oauth2 = 'mn/client_id.json'
 cred_file_oauth2 = 'client_secret.json'
-# https://stackoverflow.com/questions/62846906/httperror-400-precondition-check-failed-during-users-messages-list-gmail-api
-# https://developers.google.com/identity/protocols/oauth2/service-account#authorizingrequests
 
 token_file = 'gmail.token'
 
